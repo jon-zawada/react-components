@@ -1,0 +1,32 @@
+button {
+  margin: 10px;
+  border-radius: 8px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #04AA6D;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #038c57;
+}
+
+button.sm {
+  font-size: 14px;
+  height: 36px;
+  padding: 0px 16px 0px;
+}
+
+button.med {
+  font-size: 16px;
+  height: 40px;
+  padding: 0px 20px 0px;
+}
+
+button.lg {
+  font-size: 18px;
+  height: 56px;
+  padding: 0px 24px 0px;
+}
